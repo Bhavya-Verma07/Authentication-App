@@ -1,0 +1,33 @@
+.tabspanel{
+    background-color: rgb(11, 94, 94);
+}
+
+.navbar{
+    background-color: rgb(38, 133, 133);
+    color: beige;
+   height: 50px;
+   padding-top: 15px;
+   padding-top: 15px;
+    font-size: larger;
+    color: aliceblue;
+}
+#topnavbar{
+color:azure
+}
+
+.formcss{
+    margin: auto;
+    width:70%
+}
+
+.formcontainer{
+    width:"70%"
+}
+#contactsCard{
+    background-color:  rgb(219, 186, 173);
+}
+
+#buttons{
+    background-color:  rgb(15, 164, 63);
+    border-color: rgb(15, 164, 63);
+}
